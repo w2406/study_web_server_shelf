@@ -8,7 +8,9 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+  postgres: ^3.4.8
   shelf: ^1.4.2
+  shelf_router: ^1.1.4
   # path: ^1.8.0
 
 dev_dependencies:
